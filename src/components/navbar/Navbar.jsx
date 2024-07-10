@@ -19,7 +19,7 @@ const Navbar = () => {
                 ))}
                 <li className='app__flex p-text'>
                 <div/>
-                <a href="https://drive.google.com/file/d/14E0RAhRAsbiz_UbVpRpvFZY1eUL5DYd4/view?usp=sharing" target="_blank">Resume</a>
+                <a href="https://drive.google.com/file/d/1m-WJW0uJTQR9dWJdZ0s4ZJzCWnjwX7nt/view?usp=sharing" target="_blank">Resume</a>
               </li>
             </ul>
             <div className="app__navbar-menu">
